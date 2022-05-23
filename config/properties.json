@@ -1,0 +1,7 @@
+{
+  "browser": "chrome",
+  "environment": "https://trello.com",
+  "run_from": "Local",
+  "emailGmail": "gopalsmech2@gmail.com",
+  "password": "Inspire@2022"
+}
